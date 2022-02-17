@@ -2,9 +2,11 @@
 Console.WriteLine("Hello, World!");
 
 if(i = 0 ; i < 10){
-    console.WriteLine("David is leaving with his Naked Ass");
+    Console.WriteLine("David is leaving with his Naked Ass");
     i++;
 }else{
-    console.WriteLine("He's Staying");
+    Console.WriteLine("He's Staying");
 }
+Console.WriteLine("He's Gone Now");
+
 
